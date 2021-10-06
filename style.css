@@ -12,9 +12,51 @@ background-color: white;
 border-radius: 25px;
 }
 
-#naration {
+#narsta1 {
 font-weight: bold;
 }
+#narval1 {
+font-weight: bold;
+background:yellow;
+}
+#narsta2 {
+font-weight: bold;
+}
+#narval2 {
+font-weight: bold;
+background:yellow;
+}
+
+#narsta3 {
+font-weight: bold;
+}
+#narval3 {
+font-weight: bold;
+background:yellow;
+}
+
+#narsta4 {
+font-weight: bold;
+}
+#narval4 {
+font-weight: bold;
+background:yellow;
+}
+
+#narsta1,#narval1 {
+Display:inline;
+}
+#narsta2,#narval2 {
+Display:inline;
+}
+#narsta3,#narval3 {
+Display:inline;
+}
+
+#narsta4,#narval4 {
+Display:inline;
+}
+
 .slidecontainer {
   width: 100%;}
 .slider {
